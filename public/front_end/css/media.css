@@ -1,0 +1,40 @@
+/* responsive of navbar */
+@media (max-width: 992px) {
+	.navbar img {
+
+		margin-top: -50px;
+	}
+
+	.navbar-toggler {
+		margin-top: -55px;
+	}
+
+
+	.navbar .navbar-nav .nav-item a {
+		color: #fff;
+		font-size: large;
+		font-weight: 400;
+		/* background: #f3f3f3; */
+		background: #4F7AC8;
+		width: 100%;
+		padding-right: 45px;
+	}
+
+
+	.navbar-nav {
+		background: #4F7AC8;
+		width: 100%;
+		padding: 20px;
+		position: absolute;
+		left: 0px;
+		top: 60px;
+		z-index: 5;
+
+	}
+
+
+}
+
+
+
+
